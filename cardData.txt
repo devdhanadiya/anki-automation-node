@@ -1,0 +1,123 @@
+Card 1
+Front: When did the Bhopal Gas Tragedy occur?
+Back: Night of 2–3 December 1984.
+
+Card 2
+Front: Where did the Bhopal Gas Tragedy take place?
+Back: Union Carbide India Limited (UCIL) pesticide plant, Bhopal, Madhya Pradesh.
+
+Card 3
+Front: Which toxic gas leaked during the Bhopal Gas Tragedy?
+Back: Methyl Isocyanate (MIC).
+
+Card 4
+Front: Approximately how many people were killed immediately in the Bhopal Gas Tragedy?
+Back: Around 3,000.
+
+Card 5
+Front: What is the estimated long-term death toll of the Bhopal Gas Tragedy?
+Back: Over 15,000 deaths (due to long-term effects).
+
+Card 6
+Front: How many people were affected by the Bhopal Gas Tragedy?
+Back: Over 5 lakh people.
+
+Card 7
+Front: What were some long-term health impacts of the Bhopal Gas leak?
+Back: Respiratory problems, eye irritation, blindness, reproductive health issues, cancers, and genetic disorders.
+
+Card 8
+Front: Which U.S.-based company was the parent of Union Carbide India Limited (UCIL)?
+Back: Union Carbide Corporation (UCC).
+
+Card 9
+Front: Who was the Chairman of Union Carbide Corporation at the time of the Bhopal Gas Tragedy?
+Back: Warren Anderson.
+
+Card 10
+Front: Which Act was enacted in response to the Bhopal Gas Tragedy to deal with industrial disasters?
+Back: The Environment Protection Act, 1986.
+
+Card 11
+Front: Which other legislation was passed for industrial safety after the tragedy?
+Back: The Factories (Amendment) Act, 1987.
+
+Card 12
+Front: Which judicial principle was evolved in India as a result of the Bhopal Gas Tragedy?
+Back: The principle of Absolute Liability.
+
+Card 13
+Front: Which Supreme Court case laid down the principle of Absolute Liability?
+Back: M.C. Mehta v. Union of India (Oleum Gas Leak Case, 1986).
+
+Card 14
+Front: How is the principle of Absolute Liability different from Strict Liability?
+Back: Absolute Liability does not allow exceptions/defences; industries engaged in hazardous activities are liable for harm regardless of precautions.
+
+Card 15
+Front: Which Act was passed to manage claims arising out of the Bhopal Gas Tragedy?
+Back: The Bhopal Gas Leak Disaster (Processing of Claims) Act, 1985.
+
+Card 16
+Front: Which organisation was created under this Act to handle claims?
+Back: Office of the Welfare Commissioner, Bhopal Gas Victims.
+
+Card 17
+Front: What compensation was paid by Union Carbide Corporation in 1989 as per Supreme Court settlement?
+Back: USD 470 million.
+
+Card 18
+Front: Which ministry oversees rehabilitation measures for gas victims?
+Back: Ministry of Chemicals and Fertilizers.
+
+Card 19
+Front: What was set up in 2010 for medical and economic rehabilitation of victims?
+Back: The Bhopal Gas Tragedy Relief and Rehabilitation Department (Madhya Pradesh government).
+
+Card 20
+Front: Quick recall — When did the Bhopal Gas tragedy occur?
+Back: Night of 2–3 December 1984.
+
+Card 21
+Front: Quick recall — Which gas leaked?
+Back: Methyl Isocyanate (MIC).
+
+Card 22
+Front: Quick recall — Who was the UCC Chairman during the tragedy?
+Back: Warren Anderson.
+
+Card 23
+Front: Quick recall — What principle was evolved after the tragedy?
+Back: Absolute Liability.
+
+Card 24
+Front: Quick recall — Which case laid down Absolute Liability?
+Back: M.C. Mehta v. Union of India (Oleum Gas Leak Case, 1986).
+
+Card 25
+Front: In which year did the Bhopal Gas Tragedy take place?
+Back: 1984.
+
+Card 26
+Front: Which gas leaked during the Bhopal Gas Tragedy?
+Back: Methyl Isocyanate (MIC).
+
+Card 27
+Front: Approximately how many people were killed immediately due to the Bhopal Gas Tragedy?
+Back: Around 3,000.
+
+Card 28
+Front: The principle of Absolute Liability was laid down in which case?
+Back: M.C. Mehta v. Union of India (Oleum Gas Leak Case, 1986).
+
+Card 29
+Front: Which Act was enacted in 1985 to process claims arising out of the Bhopal Gas Tragedy?
+Back: The Bhopal Gas Leak Disaster (Processing of Claims) Act, 1985.
+
+Card 30
+Front: How much compensation was paid by Union Carbide Corporation in 1989 as settlement?
+Back: USD 470 million.
+
+Card 31
+Front: The Bhopal Gas Tragedy directly led to the enactment of which environmental legislation in 1986?
+Back: Environment Protection Act, 1986.
