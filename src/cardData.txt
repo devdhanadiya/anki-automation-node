@@ -1,0 +1,78 @@
+Topic: Economy
+
+Card 1
+Front: Global Investment Trends Monitor 2024 (UNCTAD) – What was the trend in global FDI in 2024?
+Back: Declined by 2%
+
+Card 2
+Front: (UNCTAD) – Which country remained the largest recipient of FDI?
+Back: United States
+
+Card 3
+Front: (UNCTAD) – What was India’s FDI inflow in 2024?
+Back: $44 billion
+
+Card 4
+Front: (UNCTAD) – What was India’s rank among top FDI recipients?
+Back: 7th
+
+Card 5
+Front: India’s Forex Reserves January 2025 (Forex) – What was the total forex reserve?
+Back: $651.5 billion
+
+Card 6
+Front: (Forex) – Which components make up forex reserves?
+Back: Foreign currency assets, gold, SDRs, reserve position with IMF
+
+Card 7
+Front: (Forex) – Which component increased the most in Jan 2025?
+Back: Foreign currency assets
+
+Card 8
+Front: IMF World Economic Outlook 2025 (IMF-WEO) – What is India’s projected GDP growth rate for FY 2025–26?
+Back: 6.5%
+
+Card 9
+Front: (IMF-WEO) – What is global growth forecast for 2025?
+Back: 3.1%
+
+Card 10
+Front: (IMF-WEO) – Which large economy is expected to grow the fastest in 2025?
+Back: India
+
+Card 11
+Front: India’s Merchandise Export Data Dec 2024 (Exports) – What was the export value in Dec 2024?
+Back: $37.2 billion
+
+Card 12
+Front: (Exports) – What was the YoY growth rate for Dec 2024?
+Back: 5.6%
+
+Card 13
+Front: (Exports) – Which sectors recorded maximum growth?
+Back: Engineering goods, pharmaceuticals, electronics
+
+Card 14
+Front: India’s Service Export Performance Dec 2024 (Services) – What was the total services export value?
+Back: $29.4 billion
+
+Card 15
+Front: (Services) – What was the YoY growth in services exports?
+Back: 6.2%
+
+Card 16
+Front: (Services) – Which sector drove the growth?
+Back: IT and business process management
+
+Card 17
+Front: Wholesale Price Index Jan 2025 (WPI) – What was the inflation rate?
+Back: 2.2%
+
+Card 18
+Front: (WPI) – Which group contributed most to inflation rise?
+Back: Food articles
+
+Card 19
+Front: (WPI) – Which index showed decline in Jan 2025?
+Back: Fuel and power group
+
